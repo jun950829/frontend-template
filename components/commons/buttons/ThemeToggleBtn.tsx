@@ -1,6 +1,6 @@
 'use client';
 
-import { useThemeStore } from "@/store/useThemeStore";
+import { useThemeStore } from "@/stores/useThemeStore";
 
 const ThemeToggleBtn = () => {
   const theme  = useThemeStore((state) => state.theme);

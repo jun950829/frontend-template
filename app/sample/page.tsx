@@ -1,4 +1,4 @@
-import ThemeToggleBtn from "@/components/buttons/ThemeToggleBtn";
+import ThemeToggleBtn from "@/components/common/buttons/ThemeToggleBtn";
 
 export default function Sample() {
   return (
